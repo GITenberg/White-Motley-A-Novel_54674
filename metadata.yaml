@@ -1,5 +1,8 @@
 _repo: White-Motley-A-Novel_54674
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54674-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Pemberton, Max
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32059
     wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54674#White-Motley-A-Novel
 gutenberg_issued: '2017-05-07'
 gutenberg_type: Text
 identifiers:
